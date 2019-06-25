@@ -1,0 +1,12 @@
+body{
+	background-color: black;
+}
+p{
+	background-color: blue;
+	color:white;
+}
+
+p:hover{
+	background-color: #722104;
+	color: white;
+}

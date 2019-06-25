@@ -1,0 +1,22 @@
+body{
+	background-color: black;
+}
+
+h1{
+	margin: 15px;
+	color: black;
+	background-color: red;
+}
+h1:hover{
+	background-color: #722104;
+	color: white;
+}
+
+p{
+	color: white;
+	background-color: red;
+}
+p:hover{
+	background-color: #722104;
+	color: white;
+}
